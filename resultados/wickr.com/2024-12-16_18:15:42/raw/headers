@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: text/html
+content-length: 271279
+date: Fri, 20 Sep 2024 19:05:57 GMT
+server: AmazonS3
+accept-ranges: bytes
+etag: "8bb1ae7bed225237ecb9f6c328ecea60"
+last-modified: Fri, 20 Sep 2024 19:05:33 GMT
+cache-control: public, max-age=0, s-maxage=31536000
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 3819bdccafa1c9757fb28029ca406092.cloudfront.net (CloudFront)
+x-amz-cf-pop: MAD56-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: GRkofk6GMnXjRUL-kchW3qHx7mNtvybiNTJCCLgGvexOwauHDw-vWw==
+age: 7510596
+

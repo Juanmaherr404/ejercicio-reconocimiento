@@ -1,0 +1,86 @@
+/usr/bin/ctfr:27: SyntaxWarning: invalid escape sequence '\ '
+  b = '''
+/usr/bin/ctfr:40: SyntaxWarning: invalid escape sequence '\.'
+  return re.sub('.*www\.','',target,1).split('/')[0].strip()
+
+          ____ _____ _____ ____  
+         / ___|_   _|  ___|  _ \ 
+        | |     | | | |_  | |_) |
+        | |___  | | |  _| |  _ < 
+         \____| |_| |_|   |_| \_\
+	
+     Version 1.2 - Hey don't miss AXFR!
+    Made by Sheila A. Berta (UnaPibaGeek)
+	
+
+[!] ---- TARGET: wickr.com ---- [!] 
+
+[-]  *.wickr.com
+[-]  *.wickr.com
+wickr.com
+[-]  admin.wickr.com
+fips-gw-pro-prod.wickr.com
+gw-pro-prod.wickr.com
+messaging-pro-prod.wickr.com
+[-]  admin.wickr.com
+gw-pro-prod.wickr.com
+[-]  admin.wickr.com
+gw-pro-prod.wickr.com
+messaging-pro-prod.wickr.com
+[-]  amazon.wickr.com
+[-]  amazon.wickr.com
+www.amazon.wickr.com
+[-]  api-fips.prod.calling.wickr.com
+[-]  api.prod.calling.wickr.com
+[-]  enterprise-download.test.wickr.com
+me-download.test.wickr.com
+pro-download.test.wickr.com
+[-]  enterprise-download.wickr.com
+gov-cloud-download.wickr.com
+me-download.wickr.com
+pro-download.wickr.com
+[-]  enterprise-download.wickr.com
+gov-cloud-download.wickr.com
+pro-download.wickr.com
+[-]  enterprise-download.wickr.com
+me-download.wickr.com
+pro-download.wickr.com
+[-]  enterprise.wickr.com
+[-]  fed.wickr.com
+www.fed.wickr.com
+[-]  fedramp.wickr.com
+[-]  finra.wickr.com
+[-]  finra.wickr.com
+www.finra.wickr.com
+[-]  fips-gw-pro-prod.wickr.com
+[-]  go.wickr.com
+[-]  gw-pro-prod.wickr.com
+[-]  gw-pro-prod.wickr.com
+messaging-pro-prod.wickr.com
+temp-admin.wickr.com
+temp-gw-pro-prod.wickr.com
+[-]  gw-pro-prod.wickr.com
+temp-admin.wickr.com
+temp-gw-pro-prod.wickr.com
+[-]  incyte.wickr.com
+www.incyte.wickr.com
+[-]  niap.wickr.com
+[-]  nic.wickr.com
+www.nic.wickr.com
+[-]  partners.wickr.com
+www.partners.wickr.com
+[-]  preprod-amazon.wickr.com
+[-]  preprod-amazon.wickr.com
+www.preprod-amazon.wickr.com
+[-]  status.wickr.com
+[-]  support.wickr.com
+[-]  testing-amazon.wickr.com
+[-]  testing-amazon.wickr.com
+www.testing-amazon.wickr.com
+[-]  wickr.com
+[-]  wickr.com
+www.wickr.com
+[-]  www.wickr.com
+
+
+[!]  Done. Have a nice day! ;).

@@ -1,0 +1,24 @@
+
+; <<>> DiG 9.20.2-1-Debian <<>> wickr.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23412
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1220
+; COOKIE: e446672f849ce67f24da70d8676061d8632413cdc19080c5 (good)
+;; QUESTION SECTION:
+;wickr.com.			IN	A
+
+;; ANSWER SECTION:
+wickr.com.		59	IN	A	18.154.48.5
+wickr.com.		59	IN	A	18.154.48.7
+wickr.com.		59	IN	A	18.154.48.61
+wickr.com.		59	IN	A	18.154.48.3
+
+;; Query time: 11 msec
+;; SERVER: 212.166.132.118#53(212.166.132.118) (UDP)
+;; WHEN: Mon Dec 16 18:22:33 CET 2024
+;; MSG SIZE  rcvd: 130
+
